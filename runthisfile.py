@@ -15,7 +15,7 @@ def encode_image(image_path):
 st.title("Headcount Estimation")
 
 # Initialize camera input
-img_file_buffer = st.camera_input("capture the photo. the AI will do the rest.")
+img_file_buffer = st.camera_input("Say CHEESE and take the photo. AI will do the rest.")
 
 
 
